@@ -52,7 +52,7 @@ Script Informations:
 - For the operation of the Red Moon Tool, please refer to the [creator's page](https://github.com/Buffy2021/Red-Moon).
 
 ## Example
-![home.png](https://imgur.com/a/iVCoTlM)
+![home.png](https://cdn.discordapp.com/attachments/885208828780630087/990685616427638875/unknown.png)
 
 ## Errors/Fixes
 
