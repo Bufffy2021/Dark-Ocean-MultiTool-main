@@ -1,0 +1,12 @@
+discord_webhook
+requests
+discord.py
+discord
+selenium
+beautifulsoup4
+Pillow
+PyAutoGUI
+pyinstaller
+emoji
+httpx
+lxml

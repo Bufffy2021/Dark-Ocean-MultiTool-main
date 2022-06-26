@@ -1,9 +1,9 @@
 ## Disclaimer:
 
-|`Dark Ocean Multi Tool was made for Educational Purposes`|
+|`Rage Multi Tool was made for Educational Purposes`|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
-By using Dark Ocean, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+By using Rage, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 ## Features
 - [ ] - [Self Bot] - A simple SelfBot for your Account `buggy`
@@ -38,21 +38,21 @@ Launch the setup.bat file, A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/Bufffy2021
+$ git clone https://github.com/TT-Tutorials
 $ python -m pip install -r requirements.txt
-$ python3 DarkOcean.py
+$ python3 rage.py
 ```
 
 ## Additional Informations
 General Informations:
-- If you have a problem join [https://discord.gg/Seychelles](https://discord.gg/2stGN7gpRw) or dm me Buffy2021#0001!
-- If you find any malfunction, contact me on Discord: Buffy2021#0001!
+- If you have a problem join https://discord.gg/raided or dm me ††#7777!
+- If you find any malfunction, contact me on Discord: ††#7777!
 
 Script Informations:
-- For the operation of the Red Moon Tool, please refer to the [creator's page](https://github.com/Buffy2021/Red-Moon).
+- For the operation of the RAT Tool, please refer to the [creator's page](https://github.com/zck/Discord-RAT).
 
 ## Example
-![home.png](https://cdn.discordapp.com/attachments/885208828780630087/990685616427638875/unknown.png)
+![home.png](https://media.discordapp.net/attachments/878154551335727167/912277626905853962/unknown.png)
 
 ## Errors/Fixes
 
