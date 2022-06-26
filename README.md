@@ -1,6 +1,6 @@
 ## Disclaimer:
 
-|`Dar Ocean Multi Tool was made for Educational Purposes`|
+|`Dark Ocean Multi Tool was made for Educational Purposes`|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using Dark Ocean, you agree that you hold responsibility and accountability of any consequences caused by your actions.
