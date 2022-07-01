@@ -38,7 +38,7 @@ Launch the setup.bat file, A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/TT-Tutorials
+$ git clone https://github.com/Bufffy2021/Dark-Ocean-MultiTool-main
 $ python -m pip install -r requirements.txt
 $ python3 rage.py
 ```
