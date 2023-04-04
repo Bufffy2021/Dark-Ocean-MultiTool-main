@@ -1,5 +1,5 @@
 #SKID THIS = BLACKLISTED! <3
-#Dark Ocean was made by Buffy2021#0001 | https://discord.gg/4eFHVxz9qX - https://discord.gg/2stGN7gpRw - https://discord.gg/7VyVQ5qsZZ
+#Dark Ocean was made by bf#7704 | https://discord.gg/4eFHVxz9qX - https://discord.gg/2stGN7gpRw - https://discord.gg/7VyVQ5qsZZ
 
 
 #Enjoy <3!
@@ -26,7 +26,7 @@ def title():
     \t\t\t\t  ||   || .|''||   ||     ||<<       ||    || ||    ||..|| .|''||   ||  ||  
     \t\t\t\t .||...|' `|..||. .||.   .|| \\.      `|....|' `|..' `|...  `|..||. .||  ||. 
     \t\t\t\t 
-    \t\t\t\t> Made by Buffy2021#0001 | discord.gg/2stGN7gpRw         \n\n\n\n""")
+    \t\t\t\t> Made by bf#7704 | discord.gg/2stGN7gpRw         \n\n\n\n""")
 def checkvalidity():
     src = requests.get('https://discordapp.com/api/v6/auth/login', headers={'Authorization': usertoken})
     if src.status_code == 200:
